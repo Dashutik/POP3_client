@@ -18,5 +18,5 @@ POP3_PORT = 995
 USERNAME = "ваша_почта@example.com"
 PASSWORD = "ваш_пароль" 
 
-### Запуск
+### Запуск 
 `python pop3_client.py`
